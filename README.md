@@ -34,6 +34,7 @@ Excel-Expense-Tracker/
 ---
 
 ## 📂 How to Use
+
 1. Download or clone the repository.  
 2. Open **Expense_Tracker.xlsx** in Microsoft Excel.  
 3. Add your own expense entries in the **Expense Table**.  
@@ -44,6 +45,7 @@ Excel-Expense-Tracker/
 ---
 
 ## 📊 Charts & Visualization
+
 The project includes visual elements for better understanding:
 - **Bar Charts** → Compare expenses across categories.  
 - **Pie Charts** → Show percentage distribution of expenses.  

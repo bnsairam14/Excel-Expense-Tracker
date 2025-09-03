@@ -4,7 +4,6 @@ An **Excel-based Expense Tracker** that helps manage and analyze daily expenses 
 This project demonstrates practical Excel skills that are highly relevant for roles in **Data Analysis, Business Analytics, and Finance**.
 
 ---
-
 ## 🚀 Features
 - Track daily expenses with **categories, items, and amounts**.
 - Automatic **summation using Excel formulas** and structured tables.
@@ -12,7 +11,6 @@ This project demonstrates practical Excel skills that are highly relevant for ro
 - Interactive **Slicer filters** for quick and dynamic expense exploration.
 - **Charts and Graphs** for clear visual insights.
 - Well-organized and clean Excel design for ease of use.
-
 ---
 
 ## 🔧 Skills Demonstrated
